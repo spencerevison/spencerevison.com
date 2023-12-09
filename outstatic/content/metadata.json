@@ -1,6 +1,6 @@
 {
-  "commit": "77f14f492cdadea9fe7bad9e79820d660d2a8be0",
-  "generated": "Sat, 09 Dec 2023 02:30:11 GMT",
+  "commit": "3135aaa8fa44e3494d094bb5a5a1576f86f54771",
+  "generated": "2023-12-09T03:09:45.596Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "3135aaa8fa44e3494d094bb5a5a1576f86f54771",
+        "hash": "4153312370",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Spencer Campbell",
+        "picture": "https://avatars.githubusercontent.com/u/5543454?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-12-09T02:09:37.192Z",
+      "slug": "about",
+      "status": "draft",
+      "title": "About"
     }
   ]
 }
