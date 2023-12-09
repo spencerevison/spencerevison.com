@@ -1,0 +1,24 @@
+{
+  "commit": "77f14f492cdadea9fe7bad9e79820d660d2a8be0",
+  "generated": "Sat, 09 Dec 2023 02:30:11 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "7261cf318399a018ce414975988677fc7c7e99e3",
+        "hash": "3779906056",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Spencer Campbell",
+        "picture": "https://avatars.githubusercontent.com/u/5543454?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-12-09T01:16:31.229Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    }
+  ]
+}
