@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-status: 'draft'
+status: 'published'
 author:
   name: 'Spencer Campbell'
   picture: 'https://avatars.githubusercontent.com/u/5543454?v=4'
